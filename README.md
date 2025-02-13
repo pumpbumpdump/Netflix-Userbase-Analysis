@@ -7,7 +7,7 @@ Insights and recommendations are provided on the following key areas:
 - Customer Demographics: Analysis of customer age groups, gender distribution, and regional preferences to identify key audience segments.
 - Subscription Analysis: Evaluation of subscription distribution (Basic, Standard, Premium).
 
-This analysis utilizes SQL to generate key metrics and categorize age groups, while Microsoft Power BI is used for data visualization.
+Microsoft Power BI is utilized for data visualization, generating key metrics such as monthly revenue and months subscribed, and categorizing age groups.
 
 ![Screenshot 2025-02-13 042524](https://github.com/user-attachments/assets/c88ff19c-a472-4d86-abde-f26f3a8eb27f)
 
