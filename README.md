@@ -1,4 +1,6 @@
 # Netflix Userbase Analysis
+
+## Project Background
 Netflix is a streaming service, specializing in offering a diverse selection of movies and TV shows across various genres. With a vast amount of data on viewer preferences and engagement that has been previously underutilized, this project analyzes the data to uncover critical insights that will further enhance Netflix's commercial success.
 
 Insights and recommendations are provided on the following key areas:
@@ -9,7 +11,7 @@ This analysis utilizes SQL to generate key metrics and categorize age groups, wh
 
 ![Screenshot 2025-02-13 042524](https://github.com/user-attachments/assets/c88ff19c-a472-4d86-abde-f26f3a8eb27f)
 
-**Metrics and Dimensions**
+## Metrics and Dimensions
 
 Metrics (Quantitative Data):
 - Monthly Revenue: The price of the subscription type.
@@ -27,10 +29,10 @@ Dimensions (Categorical Data):
 - Device: The device used by the user to stream (Smartphone, Tablet, Smart TV, Laptop).
 - Plan Duration: The length of the user's subscription period.
 
-**Insights**
+## Insights
 - The majority of Netflix subscribers are adults, within the 36-55 age group, accounting for 63% of total users. The remaining 37% are young adults aged 20-35. Notably, there are no active users under the age of 20 (teenagers) or above 55 (seniors), indicating a concentration of subscribers within the working-age population.
 - The United States, Spain, and Canada are the top three contributing countries. The United States leads with 18% of total revenue, followed closely by Spain at 17.7% and Canada at 13%. The remaining revenue is evenly distributed across seven other countries, each contributing 7%. This trend highlights the platform’s strong market presence in North America and parts of Europe.
 
-**Recommendations**
+## Recommendations
 - Expand Market Reach to Teenagers and Seniors: Netflix could introduce tailored content and marketing campaigns targeting these age groups. For teenagers, this could involve partnerships with influencers, exclusive youth-oriented content, and student discounts. For seniors, Netflix could focus on classic films, documentaries, and simplified user interfaces to enhance accessibility.
 - Enhance Engagement in High-Revenue Regions: With the United States, Spain, and Canada contributing the most to total revenue (18%, 17.7%, and 13%, respectively), it is essential to reinforce Netflix’s presence in these markets. This could involve localized content production, targeted promotional offers, and enhanced customer engagement strategies to maintain and grow subscriber loyalty.
