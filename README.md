@@ -5,31 +5,32 @@ Insights and recommendations are provided on the following key areas:
 - Customer Demographics: Analysis of customer age groups, gender distribution, and regional preferences to identify key audience segments.
 - Subscription Analysis: Evaluation of subscription distribution (Basic, Standard, Premium).
 
-This analysis purely uses Microsoft Excel because the data set is manageable in size. My primary goal is to produce easily understandable and also shareable results.
+This analysis utilizes SQL to generate key metrics and categorize age groups, while Microsoft Power BI is used for data visualization.
 
-![image](https://github.com/user-attachments/assets/0d4b4d43-6b42-4c82-b698-c96a8d86a9b0)
+![Screenshot 2025-02-13 042524](https://github.com/user-attachments/assets/c88ff19c-a472-4d86-abde-f26f3a8eb27f)
 
 **Metrics and Dimensions**
 
 Metrics (Quantitative Data):
-- Unit Price: The price per unit of coffee.
-- Sales: The total sales amount for each transaction.
+- Monthly Revenue: The price of the subscription type.
+- Months Subscribed: The total amount of months the user has subscribed as a Netflix user.
+- Total Revenue: The total amount of revenue the user has xxx
 
 Dimensions (Categorical Data):
-- Customer Name: The name of the customer.
-- Email: The email address of the customer.
-- Country: The country where the customer is located (e.g., United States, Ireland, United Kingdom).
-- Coffee Type: The type of coffee beans purchased (e.g., Arabica, Robusta, Excelsa, Liberica).
-- Roast Type: The roast type of the coffee (e.g., Dark, Medium, Light).
-- Size: The size of the coffee package (e.g., 0.2 kg, 0.5 kg, 1.0 kg, 2.5 kg).
-- Coffee Name: The specific name of the coffee purchased.
-- Roast Name: The name given to the specific roast.
-- Loyalty Card: Indicates whether the customer has a loyalty card (Yes/No).
+- User ID: The ID of the user as unique identifier.
+- Subscription Type: The type of subscription plan (Basic, Standard, Premium).
+- Join Date: Records the date when the user first joined as Netflix user (DD-MM-YY).
+- Last Payment Date: Records the date of the most recent subscription payment from the user (DD-MM-YY).
+- Country: The country where the user resides.
+- Age: The current age of the user.
+- Gender: The user's gender (Male or Female).
+- Device: The device used by the user to stream (Smartphone, Tablet, Smart TV, Laptop).
+- Plan Duration: The length of the user's subscription period.
 
 **Insights**
-- In recent years (2021-2022), sales from all type of coffee beans has dropped.
-- United States contributed to most of the sales (79%) compared to the United Kingdom and Ireland.
+- The majority of Netflix subscribers are adults, within the 36-55 age group, accounting for 63% of total users. The remaining 37% are young adults aged 20-35. Notably, there are no active users under the age of 20 (teenagers) or above 55 (seniors), indicating a concentration of subscribers within the working-age population.
+- The United States, Spain, and Canada are the top three contributing countries. The United States leads with 18% of total revenue, followed closely by Spain at 17.7% and Canada at 13%. The remaining revenue is evenly distributed across seven other countries, each contributing 7%. This trend highlights the platform’s strong market presence in North America and parts of Europe.
 
 **Recommendations**
-- Addressing the drop in sales in recent years (2021-2022), investigate whether there are issues with the quality of product or there's a new competitor in the market.
-- Leverage localized partnerships and culturally tailored promotions to harness growth opportunities in the United States, ensuring the stabilization of sales in these emerging markets.
+- Expand Market Reach to Teenagers and Seniors: Netflix could introduce tailored content and marketing campaigns targeting these age groups. For teenagers, this could involve partnerships with influencers, exclusive youth-oriented content, and student discounts. For seniors, Netflix could focus on classic films, documentaries, and simplified user interfaces to enhance accessibility.
+- Enhance Engagement in High-Revenue Regions: With the United States, Spain, and Canada contributing the most to total revenue (18%, 17.7%, and 13%, respectively), it is essential to reinforce Netflix’s presence in these markets. This could involve localized content production, targeted promotional offers, and enhanced customer engagement strategies to maintain and grow subscriber loyalty.
