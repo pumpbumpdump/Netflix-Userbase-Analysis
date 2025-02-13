@@ -9,6 +9,8 @@ Insights and recommendations are provided on the following key areas:
 
 Microsoft Power BI is utilized for data visualization, generating key metrics such as monthly revenue and months subscribed, and categorizing age groups.
 
+See my interactive dashboard using [Power BI](https://app.powerbi.com/groups/me/reports/0b0891b4-80d4-4de7-bfdc-95183c5f59c7/2e6fd7a16e056808ca32?experience=power-bi)
+
 ![Screenshot 2025-02-13 042524](https://github.com/user-attachments/assets/c88ff19c-a472-4d86-abde-f26f3a8eb27f)
 
 ## Metrics and Dimensions
